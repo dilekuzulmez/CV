@@ -56,7 +56,7 @@ Python, C, C++, Vim, Latex, Atom, Git, Django, HTML, SQL, PostgreSQL, MySQL, Ngi
 ```
 ### Belgeler :bookmark_tabs:
 - Coccinelle Turkish Tutorial:
-<p>https://github.com/COMU/coccinelle
+  <p>https://github.com/COMU/coccinelle
 
 ### Katıldığım Konferanslar :paperclip:
 - Akademik Bilişim 2015 - İleri Linux
